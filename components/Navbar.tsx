@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Container, Navbar as BootstrapNavbar, Nav } from "react-bootstrap";
 import Image from "next/image";
-import { HouseDoor, Server, Cloud, EnvelopeAtFill, List, User } from "react-bootstrap-icons"; // Icons for menu items
+import { HouseDoor, Cloud, EnvelopeAtFill, List } from "react-bootstrap-icons"; // Icons for menu items
 
 const CustomNavbar: React.FC = () => {
   return (
